@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>配置“隔空播放”设置</string>
+			<key>PayloadDisplayName</key>
+			<string>“隔空播放”设置</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.airplay.2B4D990C-C5E1-4233-9DA9-43DA087F8EEC</string>
+			<key>PayloadType</key>
+			<string>com.apple.airplay</string>
+			<key>PayloadUUID</key>
+			<string>2B4D990C-C5E1-4233-9DA9-43DA087F8EEC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>woho123456</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.197C3B44-95D9-4A80-A6F1-3D970B888127</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>197C3B44-95D9-4A80-A6F1-3D970B888127</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.1.98</string>
+			<key>ProxyServerPort</key>
+			<integer>8562</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>woho-office</string>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures TV Remote settings</string>
+			<key>PayloadDisplayName</key>
+			<string>TV Remote settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.tvremote.F60D9F31-C41E-4437-B2C6-E6742E26B6D1</string>
+			<key>PayloadType</key>
+			<string>com.apple.tvremote</string>
+			<key>PayloadUUID</key>
+			<string>F60D9F31-C41E-4437-B2C6-E6742E26B6D1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>未命名</string>
+	<key>PayloadIdentifier</key>
+	<string>lizhenguodeMacBook-Pro.EAC48544-3966-4CC9-9DA1-7974538FF9ED</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>68FD2963-A758-448C-BBDF-843767F341A3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
